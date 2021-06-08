@@ -1,6 +1,6 @@
 <h3>Hi there, I'm Fernando Neves! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"></h3>
 
-<img align="right" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy-downsized.gif" width="330">
+<img align="right" src="https://thumbs.gfycat.com/BluePartialHomalocephale-size_restricted.gif" width="330">
 
 <p>
   <a href="https://www.linkedin.com/in/fernando-neves-43aa06187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fernando%20Neves-blue?style=flat-square&logo=linkedin">
@@ -31,6 +31,9 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png"></a></code>
+<code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="50" src="https://blog.kakaocdn.net/dn/bkeWZK/btqISu6rQVi/VTcUXKIvrovShUqN2e6Jpk/img.png"></a></code>
+
+
 
 #### 🌱 &nbsp; I’m currently learning
 
