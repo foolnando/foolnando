@@ -14,7 +14,7 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Dev intern at <code><a href = "https://www.eldorado.org.br/"> **Eldorado**</a></code>.
+- :computer: &nbsp; I'm currently working as a Dev intern at <code><a href = "https://hellosaks.com/"> **Saks**</a></code>.
 - 🎓 &nbsp; Studying Computer Science at ICOMP/UFAM.
 - :flashlight: &nbsp; Always searching for something new to learn.
 
