@@ -14,33 +14,29 @@
 
 #### 👨🏻‍💻 &nbsp; About me
 
-- :computer: &nbsp; I'm currently working as a Dev Junior at <code><a href = "https://hellosaks.com/"> **Saks**</a></code>.
-- 🎓 &nbsp; Studying Computer Science at ICOMP/UFAM.
+- :computer: &nbsp; I'm currently looking for job opportunities as a Backend software developer.
+- 🎓 &nbsp; Graduated as Computer Science at UFAM.
 - :flashlight: &nbsp; Always searching for something new to learn.
+- 🔮 I'm a libra
 
-#### 🛠 &nbsp; Tech stack currently using
-
+#### 🛠 &nbsp; Tech known
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2021/08/1_POcSb9jzwC8iNDEGQ0xhOQ.png"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></a></code>
 <code><a href="https://angular.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></a></code>
 <code><a href="https://flask.palletsprojects.com/ " target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
-<code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/300px-Pandas_logo.svg.png"></a></code>
-<code><a href="https://scikit-learn.org/stable/" target="_blank"><img height="50" src="https://blog.kakaocdn.net/dn/bkeWZK/btqISu6rQVi/VTcUXKIvrovShUqN2e6Jpk/img.png"></a></code>
+
 
 
 
 #### 🌱 &nbsp; I’m currently learning
 
-<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://scrapy.org/" target="_blank"><img height="50" src="https://miro.medium.com/max/1200/1*YJNS0JVl7RsVDTmORGZ6xA.png"></a></code>
+<code><a href="https://www.reactjs.org/" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPF87vSe2ALgvVxpJLq35yepZhCL8hlxZNf66XCmjvFd5N_tIlUyCrxCCWi7jpO41r9h0&usqp=CAU"></a></code>
+<code><a href="https://scrapy.org/" target="_blank"><img height="50" src="https://miro.medium.com/v2/resize:fit:921/1*HtCjHzGwf6iWNqXu5Cndsg.png"></a></code>
 
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></a></code>
 
 <br/>
  
